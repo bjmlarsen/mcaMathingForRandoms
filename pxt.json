@@ -3,13 +3,19 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "browser-events": "*"
+        "browser-events": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"

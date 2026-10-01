@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAD9////////37+5uRERERH7nxEREREREfG/ERERERER8Z8RERERERHxvxEREREREfEfERERERER8R8RERERERHxHxEREREREfEfERERERER8R8RERERERHxHxEREREREfEfERERERER8R8RERERERHxvxEREREREfv9////////3w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "imgHeader"
+    },
+    "image1": {
+        "data": "hwQQABAAAAD9////////3x8RERERERHxHxEREREREfEfERERERER8R8RERERERHxHxEREREREfEfERERERER8R8RERERERHxHxEREREREfEfERERERER8R8RERERERHxHxEREREREfEfERERERER8R8RERERERHxHxEREREREfH9////////3w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "imgCell"
+    },
+    "image3": {
+        "data": "hwQBAAEAAAACAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "imgClickedSpot"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
